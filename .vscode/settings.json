@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "ubuntu",
+      "database": "gossip_project_backend_development",
+      "username": "jakfamily"
+    }
+  ]
+}
