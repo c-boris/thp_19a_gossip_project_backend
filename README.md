@@ -1,5 +1,4 @@
 # README
-
 backend de gossip project
 
 schema db :
